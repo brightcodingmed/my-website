@@ -10,3 +10,5 @@ second line
 my second line
 
 update this file before rebase
+
+add new line
