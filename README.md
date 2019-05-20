@@ -14,3 +14,7 @@ update this file before rebase
 add new line
 
 ## Redme with tags
+
+## Getting Stared
+
+to get Started with this project just clone this repository
